@@ -35,6 +35,14 @@ I'm an operations professional transitioning into data analytics, combining near
 Analyzing how supply disruptions in critical minerals — starting with tantalum — affect technology pricing. Uses USGS data and commodity market data.
 **Tools:** Python · SQL · Data Visualization
 
+### [Sparkify ETL Pipeline](https://github.com/Tammarion/udacity-sparkify-etl)
+Builds a PostgreSQL star schema database from raw JSON song and activity log files using a custom ETL pipeline. Designed to make music play data easy to query and analyze.
+**Tools:** Python · PostgreSQL · SQL · Pandas
+
+### [Amazon Data Analytics Cohort Material](https://github.com/Tammarion/DA-AMZN-220228-lecture-material)
+Lecture materials and exercises from Flatiron School's Amazon Enterprise Data Analytics cohort (Feb 2022).
+**Tools:** Python · Jupyter Notebook
+
 ---
 
 ## Certifications
