@@ -39,6 +39,14 @@ Analyzing how supply disruptions in critical minerals — starting with tantalum
 Builds a PostgreSQL star schema database from raw JSON song and activity log files using a custom ETL pipeline. Designed to make music play data easy to query and analyze.
 **Tools:** Python · PostgreSQL · SQL · Pandas
 
+### [TMDB Movie Analysis](https://github.com/Tammarion/udacity-tmdb-movie-analysis)
+Exploratory data analysis on 10,866 movies investigating what factors — budget, popularity, ratings — drive adjusted revenue.
+**Tools:** Python · Pandas · Matplotlib · NumPy
+
+### [A/B Test Statistical Analysis](https://github.com/Tammarion/udacity-ab-test-analysis)
+Statistical analysis of an e-commerce A/B test using hypothesis testing and logistic regression to evaluate whether a new page design improves conversion rates.
+**Tools:** Python · Pandas · NumPy · Statsmodels
+
 ---
 
 ## Certifications
