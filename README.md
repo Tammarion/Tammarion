@@ -8,7 +8,7 @@ Massillon, Ohio | WGU — BS Data Analytics (In Progress)
 
 ## About Me
 
-I'm an operations professional transitioning into data analytics, combining nearly 4 years of experience at Amazon with a growing technical skillset. I love finding patterns in data and using them to solve real-world problems.
+I'm an operations professional transitioning into data analytics, combining nearly 4 years of experience at Amazon with a growing technical skillset. I enjoy finding patterns in data and using them to solve real-world problems.
 
 - Currently working on: **Critical Minerals Supply Chain & Tech Pricing Analysis**
 - Pursuing: **BS in Data Analytics @ Western Governors University**
@@ -46,6 +46,14 @@ Exploratory data analysis on 10,866 movies investigating what factors — budget
 ### [A/B Test Statistical Analysis](https://github.com/Tammarion/udacity-ab-test-analysis)
 Statistical analysis of an e-commerce A/B test using hypothesis testing and logistic regression to evaluate whether a new page design improves conversion rates.
 **Tools:** Python · Pandas · NumPy · Statsmodels
+
+### [Ames Housing Sale Price Analysis](https://github.com/Tammarion/da-phase1-project-enterprise)
+Descriptive statistics and data visualization exploring what factors drive home sale prices in Ames, Iowa using the Ames Housing Dataset (1,460 sales, 80 features).
+**Tools:** Python · Pandas · Matplotlib · Seaborn
+
+### [Health Survey Analysis: Home Ownership & Physical Health](https://github.com/Tammarion/da-phase3-project-enterprise)
+Hypothesis testing using CDC BRFSS survey data to determine whether home ownership status is associated with differences in physical health outcomes.
+**Tools:** Python · Pandas · NumPy · SciPy · Matplotlib
 
 ---
 
